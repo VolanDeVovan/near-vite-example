@@ -26,7 +26,7 @@ export class NearApi {
 
         const contract = new Contract(walletConnection.account(), CONTRACT_NAME, {
             viewMethods: ['get_greeting'],
-            changeMethods: ['set_greetings'],
+            changeMethods: ['set_greeting'],
         })
 
 

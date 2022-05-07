@@ -7,7 +7,6 @@ import near from './near'
 // https://github.com/near/near-api-js/issues/757
 globalThis.Buffer = Buffer
 
-
 near.initContract()
 
 ReactDOM.createRoot(document.getElementById('root')!).render(

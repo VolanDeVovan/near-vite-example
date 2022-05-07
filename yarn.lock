@@ -1212,9 +1212,9 @@ nanoid@^3.3.3:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
 
-"near-api-js@git+https://github.com/near/near-api-js.git":
+"near-api-js@git+https://github.com/VolanDeVovan/near-api-js":
   version "0.44.2"
-  resolved "git+https://github.com/near/near-api-js.git#6f83d39f47624b4223746c0d27d10f78471575f7"
+  resolved "git+https://github.com/VolanDeVovan/near-api-js#73f8df02fce2d7e8d14187c9d72c1add310e97ee"
   dependencies:
     bn.js "5.2.0"
     borsh "^0.7.0"

@@ -1,0 +1,1 @@
+Sample project with vite + near api js 

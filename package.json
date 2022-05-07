@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "buffer": "^6.0.3",
-    "near-api-js": "git+https://github.com/near/near-api-js.git",
+    "near-api-js": "git+https://github.com/VolanDeVovan/near-api-js",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
