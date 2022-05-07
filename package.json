@@ -1,5 +1,5 @@
 {
-  "name": "near-template",
+  "name": "near-vite-example",
   "private": true,
   "version": "0.0.0",
   "scripts": {
